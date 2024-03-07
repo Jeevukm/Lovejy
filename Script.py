@@ -69,14 +69,14 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/mavimods2>MaviMods</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/jeevan_shetty>shetty</a>
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
 - sᴏᴜʀᴄᴇ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😍
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/mavimods2>MaviMods</a> 🦋"""
+- 🦋 <a href=https://t.me/jeevan_shetty>shetty</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Mavi Movie will respond whenever that keyword hits the message
