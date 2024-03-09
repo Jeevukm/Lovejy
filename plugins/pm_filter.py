@@ -1260,7 +1260,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ʀᴇᴘᴏʀᴛ ʙᴜɢ", url=f"https://telegram.me/mavimods2")
+                InlineKeyboardButton(text=f"🐞 ʀᴇᴘᴏʀᴛ ʙᴜɢ", url=f"https://telegram.me/shettymoviess")
             ]]
             btn_lzdv = [
                 [
@@ -1285,7 +1285,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ʀᴇᴘᴏsᴛ ʙᴜɢ", url=f"https://telegram.me/mavimods2")
+                InlineKeyboardButton(text=f"🐞 ʀᴇᴘᴏsᴛ ʙᴜɢ", url=f"https://telegram.me/shettymoviess")
             ]]
             btn_lzdv = [
                 [
@@ -1309,7 +1309,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             btn = [[
                 InlineKeyboardButton(text=f"🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
             ],[
-                InlineKeyboardButton(text=f"🐞 ʀᴇᴘᴏʀᴛ ʙᴜɢ", url=f"https://telegram.me/mavimods2")
+                InlineKeyboardButton(text=f"🐞 ʀᴇᴘᴏʀᴛ ʙᴜɢ", url=f"https://telegram.me/shettymoviess")
 	    ]]
             btn_lzdv = [
                 [
