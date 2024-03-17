@@ -2,7 +2,7 @@ pyrogram
 tgcrypto
 pymongo[srv]
 motor
-marshmallow==3.14.1
+marshmallow
 umongo
 requests
 bs4
